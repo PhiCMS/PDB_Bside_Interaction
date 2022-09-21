@@ -1,0 +1,8 @@
+# ignore chache changes
+__pycache__
+.idea
+*.pyc
+
+Sample_data
+
+playground.py

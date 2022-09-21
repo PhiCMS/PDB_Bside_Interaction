@@ -1,4 +1,4 @@
-# PDB Bside Interaction
+# PDB-PLIP Bside Interaction
 
 For details of PLIP please see: https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index
 
@@ -15,6 +15,7 @@ PLIP
 1. Clone project 
 2. If not done install anaconda
 3. Create new conda env. from provided .yml file
+4. Run code :D
 
 ## Aims of alpha version 
 
