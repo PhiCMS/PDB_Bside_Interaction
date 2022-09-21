@@ -1,0 +1,5 @@
+name: machine-learning-env
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/mbpro/opt/anaconda3/envs/machine-learning-env
